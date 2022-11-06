@@ -1,0 +1,66 @@
+@media (max-width: 680px) {
+	.navbar-toggler {
+		position: relative;
+		left: 180px;
+	}
+}
+@media (max-width: 666px) {
+	.navbar-toggler {
+		position: relative;
+		left: 150px;
+	}
+}
+@media (max-width: 637px) {
+	.navbar-toggler {
+		position: relative;
+		left: 120px;
+	}
+}
+@media (max-width: 607px) {
+	.navbar-toggler {
+		position: relative;
+		left: 100px;
+	}
+}
+@media (max-width: 590px) {
+	.navbar-toggler {
+		position: relative;
+		left: 70px;
+	}
+}
+@media (max-width: 557px) {
+	.navbar-toggler {
+		position: relative;
+		left: 40px;
+	}
+}
+@media (max-width: 527px) {
+	.navbar-toggler {
+		position: relative;
+		left: 10px;
+	}
+}
+@media (max-width: 502px) {
+	.navbar-toggler {
+		position: relative;
+		left: -10px;
+	}
+}
+@media (max-width: 480px) {
+	.navbar-toggler {
+		position: relative;
+		left: -30px;
+	}
+}
+@media (max-width: 455px) {
+	.navbar-toggler {
+		position: relative;
+		left: -60px;
+	}
+}
+@media (max-width: 425px) {
+	.navbar-toggler {
+		position: relative;
+		left: -90px;
+	}
+}
